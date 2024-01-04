@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinandan 
-- 👀 I’m interested in web Devlopment
-- 🌱 I’m currently learning web Development
+- 🌱 I’m currently learning Java and web Development
+- 👀 I’m interested in Data Science and web Devlopment
 - 📫 contact me on abhinandanswain200218@gmail.com
 
 <!---
